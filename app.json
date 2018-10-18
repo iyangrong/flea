@@ -1,12 +1,41 @@
 {
   "pages":[
+    "pages/page/page",
+    "pages/issue/issue",
+    "pages/person/person",
     "pages/index/index",
     "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText":"武院二手交易市场",
     "navigationBarTextStyle":"black"
-  }
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/page/page",
+        "text": "首页",
+        "iconPath": "/images/page.png",
+        "selectedIconPath": "/images/pageone.png"
+      },
+      {
+        "pagePath": "pages/issue/issue",
+        "text": "发布",
+        "iconPath": "/images/issue.png",
+        "selectedIconPath": "/images/issueone.png"
+      },
+      {
+        "pagePath": "pages/person/person",
+        "text": "个人中心",
+        "iconPath": "/images/my.png",
+        "selectedIconPath": "/images/myone.png"
+      }
+      ],
+      "color": "#737373",
+      "selectedColor": "#7bc3f2",
+      "position": "bottom"
+    },
+    "debug": true
 }
