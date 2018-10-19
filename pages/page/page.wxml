@@ -13,21 +13,26 @@
 
 <!--体育用品-->
 <view class="sports">
+<text>体育用品</text>
 </view>
 
 <!--学习用品-->
 <view class="study">
+<text>学习用品</text>
 </view>
 
 <!--电子产品-->
 <view class="electron">
+<text>电子产品</text>
 </view>
 
 <!--生活用品-->
 <view class="living">
+<text>生活用品</text>
 </view>
 
 <!--其他-->
 <view class="other">
+<text>其他</text>
 </view>
 </view>

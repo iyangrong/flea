@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "pages": [
-=======
   "pages":[
->>>>>>> tab-bar
     "pages/page/page",
     "pages/issue/issue",
     "pages/person/person",
@@ -13,13 +9,8 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-<<<<<<< HEAD
-    "navigationBarTitleText": "武院二手交易市场",
-    "navigationBarTextStyle": "black"
-=======
     "navigationBarTitleText":"武院二手交易市场",
     "navigationBarTextStyle":"black"
->>>>>>> tab-bar
   },
   "tabBar": {
     "list": [
@@ -41,15 +32,6 @@
         "iconPath": "/images/my.png",
         "selectedIconPath": "/images/myone.png"
       }
-<<<<<<< HEAD
-    ],
-    "color": "#737373",
-    "selectedColor": "#7bc3f2",
-    "position": "bottom"
-  },
-  "debug": true
-}
-=======
       ],
       "color": "#737373",
       "selectedColor": "#7bc3f2",
@@ -57,4 +39,3 @@
     },
     "debug": true
 }
->>>>>>> tab-bar
