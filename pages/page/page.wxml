@@ -1,0 +1,33 @@
+<!--搜索栏-->
+<view class="search">
+<input placeholder="搜索" placeholder-class="place-holder" value="{{searchValue}}" maxlength="20" bindinput="bindKeyInput"/>
+</view> 
+
+<!--分类-->
+<view class="classify">
+
+<!--全部-->
+<view class="total">
+<text>全部</text>
+</view>
+
+<!--体育用品-->
+<view class="sports">
+</view>
+
+<!--学习用品-->
+<view class="study">
+</view>
+
+<!--电子产品-->
+<view class="electron">
+</view>
+
+<!--生活用品-->
+<view class="living">
+</view>
+
+<!--其他-->
+<view class="other">
+</view>
+</view>
