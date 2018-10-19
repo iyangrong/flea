@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Page({
   data: {
     searchValue: ''
@@ -9,3 +10,6 @@ Page({
     })
   }
 })
+=======
+({})
+>>>>>>> tab-bar
